@@ -4,4 +4,4 @@ const mainId = document.getElementById('main');
 
 const newHeader = document.createElement("h1");
     newHeader.id = 'victory';
-    newHeader.innerHTML ='Leah is the champion';
+    newHeader.innerHTML ='David is the champion';
